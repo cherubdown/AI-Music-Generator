@@ -1,0 +1,7 @@
+muspy
+music21
+torch --index-url https://download.pytorch.org/whl/cpu
+numpy
+pandas
+matplotlib
+tqdm
